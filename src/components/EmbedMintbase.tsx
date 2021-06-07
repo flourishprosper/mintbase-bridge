@@ -7,7 +7,7 @@ const EmbedMintbase = () => {
   return (
     <div>
       <Mintbase
-        contract="0x202d2f33449bf46d6d32ae7644ada130876461a4"
+        contract="0x766ecb7760d6d2f70b249c5fd25535efc4a0758b"
         show={isOpen}
         handleClose={setIsOpen}
         dark="rgba(60, 60, 60, 1)"
